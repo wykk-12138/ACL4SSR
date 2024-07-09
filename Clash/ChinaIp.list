@@ -3,6 +3,8 @@
 # 更新：2024-06-30 11:03:01
 # 数量：6885条
 
+IP-CIDR,208.82.62.141/32,no-resolve
+IP-CIDR,129.151.240.127/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.8.0/21,no-resolve
