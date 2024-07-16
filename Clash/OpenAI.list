@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,sentry.io
 challenges.cloudflare.com
+DST-PORT,3389
