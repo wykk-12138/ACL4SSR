@@ -2,6 +2,11 @@
 
 # MyList && Other
 DST-PORT,3389
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,rottentomatoes.com
+DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
