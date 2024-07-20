@@ -30,8 +30,10 @@ DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.co
-
-
+DOMAIN-SUFFIX,icc2022.xyz
+DOMAIN-SUFFIX,czhch.com
+DOMAIN-SUFFIX,nextpt.net
+DOMAIN-SUFFIX,connects.icu
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
