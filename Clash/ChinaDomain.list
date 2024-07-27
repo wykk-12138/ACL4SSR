@@ -4,6 +4,7 @@
 IP-CIDR,208.82.62.141/32,no-resolve
 IP-CIDR,129.151.240.127/32,no-resolve
 IP-CIDR,104.18.50.152/32,no-resolve
+IP-CIDR,87.98.162.88/32,no-resolve
 DOMAIN-SUFFIX,wxwsa.xyz
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
