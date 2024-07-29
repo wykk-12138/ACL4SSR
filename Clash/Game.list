@@ -1,3 +1,11 @@
+#PT
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,xp.m-team.cc
+DOMAIN-SUFFIX,static.m-team.cc
+DOMAIN-SUFFIX,img.m-team.cc
+DOMAIN-SUFFIX,api.m-team.io
+DOMAIN-SUFFIX,api.m-team.cc
+
 # Sony
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
@@ -22,5 +30,3 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
-DOMAIN-SUFFIX,kp.m-team.cc
-DOMAIN-SUFFIX,xp.m-team.cc
