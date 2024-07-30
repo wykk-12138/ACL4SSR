@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,static.m-team.cc
 DOMAIN-SUFFIX,img.m-team.cc
 DOMAIN-SUFFIX,api.m-team.io
 DOMAIN-SUFFIX,api.m-team.cc
+DOMAIN-SUFFIX,api2.m-team.cc
 
 # 国外域名
 DOMAIN-SUFFIX,eu
