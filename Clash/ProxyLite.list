@@ -38,6 +38,14 @@ DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,maxoutdeals.com
 DOMAIN-SUFFIX,98t.la
 
+#PT
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,xp.m-team.cc
+DOMAIN-SUFFIX,static.m-team.cc
+DOMAIN-SUFFIX,img.m-team.cc
+DOMAIN-SUFFIX,api.m-team.io
+DOMAIN-SUFFIX,api.m-team.cc
+
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
