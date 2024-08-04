@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,easports.com
+DOMAIN-SUFFIX,akamaihd.net
+
 
 # SteamCN
 DOMAIN-SUFFIX,cm.steampowered.com
