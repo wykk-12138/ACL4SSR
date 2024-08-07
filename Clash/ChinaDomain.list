@@ -8,6 +8,7 @@ IP-CIDR,104.17.213.230/32,no-resolve
 IP-CIDR,87.98.162.88/32,no-resolve
 IP-CIDR,172.67.176.22/32,no-resolve
 IP-CIDR,104.21.56.25/32,no-resolve
+DOMAIN-SUFFIX,helloimg.com
 DOMAIN-SUFFIX,wxwsa.xyz
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
