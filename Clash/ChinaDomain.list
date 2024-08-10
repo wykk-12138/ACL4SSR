@@ -5,11 +5,7 @@ IP-CIDR,208.82.62.141/32,no-resolve
 IP-CIDR,208.82.62.182/32,no-resolve
 IP-CIDR,129.151.240.127/32,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
-IP-CIDR,104.21.0.0/16,no-resolve
-IP-CIDR,104.22.0.0/16,no-resolve
-IP-CIDR,104.23.0.0/16,no-resolve
-IP-CIDR,104.24.0.0/16,no-resolve
-IP-CIDR,104.17.0.0/16,no-resolve
+IP-CIDR,104.16.0.0/20,no-resolve
 IP-CIDR,87.98.162.88/32,no-resolve
 IP-CIDR,172.67.176.22/32,no-resolve
 DOMAIN-SUFFIX,helloimg.com
