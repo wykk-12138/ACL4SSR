@@ -11,6 +11,7 @@ IP-CIDR,104.21.89.191/32,no-resolve
 IP-CIDR,104.16.189.207/32,no-resolve
 IP-CIDR,87.98.162.88/32,no-resolve
 IP-CIDR,172.67.176.22/32,no-resolve
+IP-CIDR,213.165.245.165/32,no-resolve
 DOMAIN-SUFFIX,helloimg.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,13th.tech
