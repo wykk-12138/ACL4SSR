@@ -5,14 +5,7 @@ IP-CIDR,208.82.62.141/32,no-resolve
 IP-CIDR,208.82.62.182/32,no-resolve
 IP-CIDR,129.151.240.127/32,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
-IP-CIDR,104.18.183.163/32,no-resolve
-IP-CIDR,104.21.56.25/32,no-resolve
-IP-CIDR,104.21.59.6/32,no-resolve
-IP-CIDR,104.21.89.191/32,no-resolve
-IP-CIDR,104.16.189.207/32,no-resolve
-IP-CIDR,87.98.162.88/32,no-resolve
-IP-CIDR,172.67.176.22/32,no-resolve
-IP-CIDR,213.165.245.165/32,no-resolve
+IP-CIDR,172.64.101.116/32,no-resolve
 DOMAIN-SUFFIX,helloimg.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,13th.tech
