@@ -1,4 +1,7 @@
-# Amazon
+# Amazon and Oracle
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static.siege-amazon.com
