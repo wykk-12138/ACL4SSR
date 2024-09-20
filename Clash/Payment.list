@@ -1,5 +1,6 @@
 #Payment
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,stripe.com
