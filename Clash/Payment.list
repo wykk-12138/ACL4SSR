@@ -1,7 +1,6 @@
 #Payment
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,arcteryx.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,stripe.com
@@ -13,3 +12,7 @@ DOMAIN-SUFFIX,revolut.com
 DOMAIN-SUFFIX,revolut.me
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,ultramobile.com
+
+#arcteryx
+DOMAIN-SUFFIX,arcteryx.com
+DOMAIN-SUFFIX,imgix.net
