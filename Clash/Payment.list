@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,salesforce-sites.com
 DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,evergage.com
+
+#yahoo
+DOMAIN-SUFFIX,yahoo.com
