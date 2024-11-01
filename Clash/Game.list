@@ -48,3 +48,12 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
+
+#nike
+DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,adobedtm.com
