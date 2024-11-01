@@ -51,6 +51,8 @@ DOMAIN,steamstatic.com.8686c.com
 
 #nike
 DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,forter.com
