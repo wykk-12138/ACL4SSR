@@ -54,6 +54,8 @@ DOMAIN,steamstatic.com.8686c.com
 #nike
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,my.site.com
+DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,boltdns.net
 DOMAIN-SUFFIX,salesforce-scrt.com
 DOMAIN-SUFFIX,linksynergy.com
