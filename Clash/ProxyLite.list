@@ -1,6 +1,7 @@
 # 代理列表
 
 # MyList && Other
+DST-PORT,3389
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,fanart.tv
