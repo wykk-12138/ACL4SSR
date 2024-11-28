@@ -1,13 +1,3 @@
-#netcup
-DOMAIN-KEYWORD,netcup
-DOMAIN-SUFFIX,netcup.com
-DOMAIN-SUFFIX,netcup.de
-DOMAIN-SUFFIX,customercontrolpanel.de
-DOMAIN-SUFFIX,servercontrolpanel.de
-DOMAIN-SUFFIX,netcup-sonderangebote.de
-DOMAIN-SUFFIX,netcup.eu
-
-
 # Sony
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
@@ -58,21 +48,3 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
-
-#nike
-DOMAIN-SUFFIX,nike.com
-DOMAIN-SUFFIX,snapchat.com
-DOMAIN-SUFFIX,my.site.com
-DOMAIN-SUFFIX,singular.net
-DOMAIN-SUFFIX,boltdns.net
-DOMAIN-SUFFIX,salesforce-scrt.com
-DOMAIN-SUFFIX,linksynergy.com
-DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,nr-data.net
-DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,urbanairship.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,forter.com
-DOMAIN-SUFFIX,newrelic.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,adobedtm.com
