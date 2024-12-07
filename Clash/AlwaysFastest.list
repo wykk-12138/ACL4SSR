@@ -2,6 +2,7 @@
 
 # MyList && Other
 DST-PORT,3389
+DST-PORT,22
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,fanart.tv
