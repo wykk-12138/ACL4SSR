@@ -19,16 +19,6 @@ USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 
-# AppleNews
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com
-
-# AppleTV
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-
 # BBCiPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
@@ -396,7 +386,6 @@ DOMAIN-SUFFIX,viu.tv
 # 国外域名关键字
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
-DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
