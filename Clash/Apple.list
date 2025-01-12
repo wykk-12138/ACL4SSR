@@ -1,5 +1,7 @@
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
@@ -7,8 +9,19 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
+
+# AppleNews
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-KEYWORD,appledaily
+
+
+# AppleTV
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
