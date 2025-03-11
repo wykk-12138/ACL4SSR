@@ -5,7 +5,7 @@ IP-CIDR,208.82.62.141/32,no-resolve
 IP-CIDR,208.82.62.182/32,no-resolve
 IP-CIDR,213.165.245.165/32,no-resolve
 IP-CIDR,104.16.7.71/32,no-resolve
-IP-CIDR,172.64.153.119/32,no-resolve
+IP-CIDR,104.16.14.175/32,no-resolve
 DOMAIN-SUFFIX,wykk.ink
 DOMAIN-SUFFIX,helloimg.com
 DOMAIN-SUFFIX,imgse.com
