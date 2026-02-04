@@ -25,10 +25,18 @@ DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,adobedtm.com
 
-#arcteryx
+#Arcteryx
 DOMAIN-SUFFIX,arcteryx.com
-DOMAIN-KEYWORD,arcteryx
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,edgecastcdn.net
+#--- 支付网关 ---
+DOMAIN-SUFFIX,klarna.com
+DOMAIN-SUFFIX,klarnacdn.net
+# --- 关键静态/个性化 ---
 DOMAIN-SUFFIX,imgix.net
-DOMAIN-SUFFIX,salesforce-sites.com
-DOMAIN-SUFFIX,force.com
-DOMAIN-SUFFIX,evergage.com 
+DOMAIN-SUFFIX,evergage.com
+DOMAIN-SUFFIX,adobedtm.com
