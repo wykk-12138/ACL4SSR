@@ -8,6 +8,7 @@ IP-CIDR,172.64.52.212/32,no-resolve
 IP-CIDR,45.62.118.53/32,no-resolve
 DOMAIN-SUFFIX,wykk.ink
 DOMAIN-SUFFIX,dewu-inc.com
+PROCESS-NAME,parsecd
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-SUFFIX,helloimg.com
