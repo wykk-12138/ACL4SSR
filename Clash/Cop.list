@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-KEYWORD,arcteryx
 #--- 支付网关 ---
 DOMAIN-SUFFIX,klarna.com
 DOMAIN-SUFFIX,klarnacdn.net
