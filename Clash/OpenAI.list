@@ -1,14 +1,4 @@
 # ==========================================
-# Anthropic / Claude
-# ==========================================
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,usefathom.com
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
-
-# ==========================================
 # OpenAI / ChatGPT / Sora
 # ==========================================
 DOMAIN-SUFFIX,openai.com
