@@ -12,9 +12,8 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static.siege-amazon.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-KEYWORD,avoddashs
-DOMAIN,atv-ps.amazon.com
-DOMAIN,a2z.com
-DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN-SUFFIX,a2z.com
+DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,awsglobalaccelerator.com
 DOMAIN-SUFFIX,amplifyapp.com
