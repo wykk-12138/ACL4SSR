@@ -1,11 +1,12 @@
 # Amazon and Oracle
-IP-CIDR,3.73.74.237/32,no-resolve
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,static.siege-amazon.com
@@ -14,7 +15,11 @@ DOMAIN-KEYWORD,avoddashs
 DOMAIN,atv-ps.amazon.com
 DOMAIN,a2z.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,cloudfront.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,awsglobalaccelerator.com
+DOMAIN-SUFFIX,amplifyapp.com
+DOMAIN-SUFFIX,awsapprunner.com
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
