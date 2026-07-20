@@ -9,6 +9,15 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,px-cloud.net
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,rottentomatoes.com
 DOMAIN-SUFFIX,themoviedb.org
