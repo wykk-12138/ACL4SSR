@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,stripe.com
+stripecdn.com
+fastly.net
+stripe.network
 DOMAIN-SUFFIX,zellepay.com
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,citigroup.com
