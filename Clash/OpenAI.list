@@ -8,6 +8,15 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
+
+# ==========================================
+# Grok
+# ==========================================
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,grokipedia.com
+
 # ChatGPT 语音通讯底层
 DOMAIN-SUFFIX,livekit.cloud
 
