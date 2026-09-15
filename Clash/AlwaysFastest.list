@@ -1,10 +1,16 @@
 # 代理列表
 
 # MyList && Other
-IP-CIDR,128.242.112.242/32,no-resolve
-IP-CIDR,162.251.251.142/32,no-resolve
-IP-CIDR,198.65.16.94/32,no-resolve
+IP-CIDR,48.47.175.55/32,no-resolve
+IP-CIDR,48.47.175.56/32,no-resolve
+IP-CIDR,48.47.175.57/32,no-resolve
+IP-CIDR,48.47.175.58/32,no-resolve
+IP-CIDR,48.47.175.59/32,no-resolve
+IP-CIDR,168.143.224.59/32,no-resolve
+IP-CIDR,188.191.100.231/32,no-resolve
+IP-CIDR,104.254.189.209/32,no-resolve
 DST-PORT,3389
+DOMAIN-SUFFIX,cpr.wykkcy.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,anyrouter.top
