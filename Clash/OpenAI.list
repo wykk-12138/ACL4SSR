@@ -31,3 +31,11 @@ DOMAIN-SUFFIX,datadoghq.com
 
 # 兜底匹配
 DOMAIN-KEYWORD,openai
+
+# ==========================================
+# Gemini
+# ==========================================
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
