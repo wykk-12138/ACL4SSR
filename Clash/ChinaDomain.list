@@ -10,6 +10,7 @@ IP-CIDR,124.222.170.20/32,no-resolve
 DOMAIN-SUFFIX,wykk.ink
 DOMAIN-SUFFIX,dewu-inc.com
 DOMAIN-SUFFIX,shuaiapi.com
+DOMAIN-SUFFIX,zopa.cc
 DOMAIN-SUFFIX,fcapp.run
 PROCESS-NAME,parsecd
 DOMAIN-SUFFIX,parsec.app
